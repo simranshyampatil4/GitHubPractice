@@ -1,11 +1,7 @@
+Simran Patil
 GitHub is a web-based platform that provides a collaborative environment for software developers to work together on projects. It is primarily used for version control and source code management, allowing developers to track changes to their codebase, collaborate with others, and manage different versions of their software. GitHub also supports various other features that facilitate the software development process, such as issue tracking, project management, and code review.
 
 Key features of GitHub include:
-
-1. **Version Control**: GitHub uses the Git version control system, which allows developers to track changes made to their code over time. This enables teams to collaborate effectively without overwriting each other's work.
-
-2. **Repositories**: Projects on GitHub are stored in repositories, which can contain code, documentation, and other files. Each repository can be either public (visible to everyone) or private (restricted to authorized users).
-
 3. **Collaboration**: GitHub makes it easy for developers to collaborate on projects. Multiple developers can work on the same repository simultaneously, and changes can be reviewed and merged using pull requests.
 
 4. **Pull Requests**: Pull requests (PRs) are proposals for changes that one developer has made to a repository. Other developers can review the changes, discuss them, and then merge them into the main codebase if they are deemed appropriate.
@@ -21,5 +17,6 @@ Key features of GitHub include:
 9. **Community and Social Interaction**: GitHub has a strong community aspect, as developers can follow projects, star repositories they find interesting, and contribute to open-source projects.
 
 10. **Integration**: GitHub can be integrated with other tools and services, such as continuous integration (CI) systems, code analysis tools, and deployment platforms.
+AurionPro Solutions Limited
 
-GitHub is widely used by both individual developers and large organizations for open-source and closed-source projects alike. It has played a significant role in fostering collaboration and advancing the field of software development by providing a centralized platform for version control and team coordination.
+G
